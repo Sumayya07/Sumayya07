@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Mobile App Developer.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning iOS Development and AR/VR.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-➤ 🌱 I’m currently learning Android & iOS Development.
+➤ 🌱 I’m currently learning iOS Development and AR/VR.
 
 ➤ 👯 I’m looking to collaborate on Open Source Projects.
 
